@@ -32,7 +32,7 @@ To SSH into the machine to run your tests, run `vagrant ssh`. You can access the
 
 Run Codeception, installed via Composer
 
-```
+```.
 ./vendor/bin/codecept build
 ./vendor/bin/codecept run
 ```
